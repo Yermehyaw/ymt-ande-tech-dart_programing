@@ -1,3 +1,3 @@
-# Learning Programming
-I am learning dart programmig at YMT & Ande tech and this is my first repository a a student
+# Dart Programming
+My first repo on dart programming as part of the app development course taken at YMT & Ande tech Institute
 
